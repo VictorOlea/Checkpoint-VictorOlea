@@ -1,0 +1,40 @@
+  294  git push origin master
+  295  git init
+  296  git remote add origin https://github.com/VictorOlea/Checkpoint-VictorOlea.git
+  297  git remote -v
+  298  touch main.js index.html
+  299  git commit -m "commit 01 de victorOlea"
+  300  git add .
+  301  git push origin master
+  302  git status
+  303  git push origin master
+  304  git commit -m "commit 01 de victorOlea"
+  305  git push origin master
+  306  git branch feature
+  307  git branch checkout feauture
+  308  git branch checkout feature
+  309  git branch
+  310  git checkout feature
+  311  mkdir Hardware Software SeguridadInformatica
+  312  cd Hardware/touch resumen.txt
+  313  cd Hardware
+  314  touch resumen.txt
+  315  cd ..
+  316  cd Software
+  317  touch resumen.txt
+  318  cd ..
+  319  cd SeguridadInformatica
+  320  touch resumen.txt
+  321  git add .
+  322  git commit -m "commit 02 de victorOlea"
+  323  git push origin feature
+  324  git checkout main
+  325  git checkout master
+  326  mv main.js resumenHardware.txt
+  327  cd ..
+  328  mv main.js resumenHardware.txt
+  329  mv index.html resumenSoftware.txt
+  330  touch comandos.txt
+  331  history 20
+  332  history 50
+  333  history 40 > comandos.txt
